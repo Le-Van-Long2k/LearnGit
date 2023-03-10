@@ -1,2 +1,2 @@
 # LearnGit
-thuc hanh voi git
+thuc hanh voi git co ban
